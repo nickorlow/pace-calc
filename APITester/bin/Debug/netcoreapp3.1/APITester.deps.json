@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "APITester/1.0.0": {
+        "dependencies": {
+          "PaceAPI": "1.0.0"
+        },
+        "runtime": {
+          "APITester.dll": {}
+        }
+      },
+      "PaceAPI/1.0.0": {
+        "runtime": {
+          "PaceAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APITester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaceAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

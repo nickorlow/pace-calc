@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaceCalc", "PaceCalc\PaceCalc.csproj", "{44AA36C5-2DD5-42FF-954A-A74FD582EB73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITester", "APITester\APITester.csproj", "{70623C68-1B21-465D-9EEF-A90090B0F9F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AA36C5-2DD5-42FF-954A-A74FD582EB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AA36C5-2DD5-42FF-954A-A74FD582EB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AA36C5-2DD5-42FF-954A-A74FD582EB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AA36C5-2DD5-42FF-954A-A74FD582EB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70623C68-1B21-465D-9EEF-A90090B0F9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70623C68-1B21-465D-9EEF-A90090B0F9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70623C68-1B21-465D-9EEF-A90090B0F9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70623C68-1B21-465D-9EEF-A90090B0F9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

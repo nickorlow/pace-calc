@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{44AA36C5-2DD5-42FF-954A-A74FD582EB73}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaceCalc/MainActivity.cs">
+    <Files>
+      <File FileName="PaceAPI/Pace.cs" Line="30" Column="4" />
+      <File FileName="PaceAPI/Unit.cs" />
+      <File FileName="PaceCalc/MainActivity.cs" Line="282" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaceCalc" expanded="True">
+            <Node name="PaceCalc" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PaceCalc AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.APITester PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>PaceAPI/PaceAPI.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

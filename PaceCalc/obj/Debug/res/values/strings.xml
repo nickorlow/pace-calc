@@ -1,0 +1,1 @@
+<resources><string name="app_name">PaceCalc</string><string name="action_settings">Settings</string><string-array name="distances_array"><item>Meters</item><item>Kilometers</item><item>Miles</item></string-array></resources>
